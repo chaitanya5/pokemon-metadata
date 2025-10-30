@@ -106,6 +106,7 @@ const main = async (
 
             if (resultS3Url != "empty") {
                 outputData[index].metadata_url = resultS3Url;
+                outputData[index].sanitizedFilename = sanitizedFileName;
             }
 
             stats.processed++;

@@ -1,14 +1,14 @@
 {
-    "name": "pokemon-nft",
+    "name": "pokemon-metadata",
     "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
+    "description": "Pokemon Metadata Generation",
+    "main": "start.js",
     "type": "module",
     "scripts": {
         "start": "node start.js"
     },
     "keywords": [],
-    "author": "",
+    "author": "https://github.com/chaitanya5",
     "license": "ISC",
     "packageManager": "pnpm@10.12.1",
     "dependencies": {

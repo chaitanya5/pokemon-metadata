@@ -38,7 +38,7 @@
   "7": {
     "status": "completed",
     "message": "Metadata uploading completed",
-    "timestamp": "2025-10-28T11:12:01.281Z",
+    "timestamp": "2025-10-28T15:02:34.546Z",
     "step_name": "CSV to JSON Conversion"
   }
 }
